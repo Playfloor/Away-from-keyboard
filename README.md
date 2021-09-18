@@ -1,0 +1,2 @@
+# Away-from-keyboard
+AFK
